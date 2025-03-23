@@ -1,7 +1,6 @@
 client/.cache
 client/public
 .env
-.git
 .gitignore
 .dockerignore
 docker/**/Dockerfile
